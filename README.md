@@ -28,4 +28,4 @@ Summary of set up:
   Run tests from the below command
   ```PowerShell
   npm test
-  ```# Coffee-Machine
+  ```

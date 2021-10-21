@@ -1,18 +1,15 @@
 {
-  "name": "museum-visitors",
+  "name": "coffee-machine",
   "version": "1.0.0",
-  "description": "Museum visitors summary for each month",
-  "main": "server.js",
+  "description": "Process machine to get the beverage preparation status",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Govind",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.23.0",
-    "express": "^4.17.1",
-    "jest": "^27.3.0",
-    "moment": "^2.29.1"
+    "jest": "^27.3.0"
   }
 }
